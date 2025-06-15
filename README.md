@@ -1,6 +1,6 @@
 # 💰 Personal Budget Tracker
 
-A **personal budget tracking web app** built with **React**, **Tailwind CSS**, **Firebase**, and **Recharts** that helps users manage their expenses with a clean and interactive interface.
+A **personal budget tracking web app** built with **React**, **Tailwind CSS** and **Recharts** that helps users manage their expenses with a clean and interactive interface.
 
 ---
 
